@@ -1,0 +1,2 @@
+module BE_CoreJava {
+}
